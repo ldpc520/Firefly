@@ -7,13 +7,13 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "风雨轮迹",
+	title: "风语轮迹",
 
 	// 站点副标题
 	subtitle: "Demo site",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://blog.527200.xyz",
 
 	// 站点描述
 	description:
@@ -110,7 +110,7 @@ export const siteConfig: SiteConfig = {
 	outdatedThreshold: 30,
 
 	// 是否开启分享海报生成功能
-	sharePoster: true,
+	sharePoster: false,
 
 	// OpenGraph图片功能,注意开启后要渲染很长时间，不建议本地调试的时候开启
 	generateOgImages: false,
