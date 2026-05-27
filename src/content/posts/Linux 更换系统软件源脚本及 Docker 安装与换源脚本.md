@@ -1,5 +1,5 @@
 ---
-title: Firefly 一键更换GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
+title:一键更换GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
 published: 2026-05-28
 pinned: true
 description: 一键更换GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
