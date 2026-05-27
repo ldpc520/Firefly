@@ -185,7 +185,7 @@ export const siteConfig: SiteConfig = {
 			// Umami 会话回放脚本地址，支持使用自建
 			replaysScriptUrl: "https://cloud.umami.is/recorder.js",
 			// 是否追踪出站链接
-			trackOutboundLinks: true,
+			trackOutboundLinks: false,
 			// 是否收集浏览器性能指标
 			collectWebVitals: false,
 			// 会话回放配置
